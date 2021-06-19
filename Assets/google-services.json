@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "400878919688",
+    "firebase_url": "https://sdv602-kids-see-ghosts-ms3.firebaseio.com",
+    "project_id": "sdv602-kids-see-ghosts-ms3",
+    "storage_bucket": "sdv602-kids-see-ghosts-ms3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400878919688:android:4439adaac57c10a2",
+        "android_client_info": {
+          "package_name": "com.PatrickSullivan.KidsSeeGhosts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400878919688-u6ufdb5rplhub7vsapn9tn8r0qtsg5b4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGRwEezzwAZB86t6gH_GF7uHIX3d1GLB0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
